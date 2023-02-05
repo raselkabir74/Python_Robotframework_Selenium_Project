@@ -1,0 +1,88 @@
+2020-10-11 08:51:41,366 - Staff - INFO - Start: add new staff
+2020-10-11 08:52:08,480 - Staff - INFO - End: add new staff
+2020-10-11 08:52:08,484 - Staff - INFO - Start: is staff added successfully
+2020-10-11 08:52:40,017 - Staff - INFO - End: is staff added successfully
+2020-10-11 08:56:58,486 - Staff - INFO - Start: add new staff
+2020-10-11 08:57:24,869 - Staff - INFO - End: add new staff
+2020-10-11 08:57:24,874 - Staff - INFO - Start: is staff added successfully
+2020-10-11 08:57:31,286 - Staff - INFO - End: is staff added successfully
+2020-10-11 09:07:44,246 - Staff - INFO - Start: add new staff
+2020-10-11 09:08:10,743 - Staff - INFO - End: add new staff
+2020-10-11 09:08:10,747 - Staff - INFO - Start: is staff added successfully
+2020-10-11 09:08:22,427 - Staff - INFO - End: is staff added successfully
+2020-10-11 10:17:11,431 - Staff - INFO - Start: add new staff
+2020-10-11 10:17:37,783 - Staff - INFO - End: add new staff
+2020-10-11 10:17:37,785 - Staff - INFO - Start: is staff added successfully
+2020-10-11 10:17:48,665 - Staff - INFO - End: is staff added successfully
+2020-10-11 18:50:43,425 - Staff - INFO - Start: add new staff
+2020-10-11 18:51:09,607 - Staff - INFO - End: add new staff
+2020-10-11 18:51:09,613 - Staff - INFO - Start: is staff added successfully
+2020-10-11 18:51:22,163 - Staff - INFO - End: is staff added successfully
+2020-10-11 18:58:44,844 - Staff - INFO - Start: add new staff
+2020-10-11 18:59:11,394 - Staff - INFO - End: add new staff
+2020-10-11 18:59:11,398 - Staff - INFO - Start: is staff added successfully
+2020-10-11 18:59:22,658 - Staff - INFO - End: is staff added successfully
+2020-10-12 08:51:13,643 - Staff - INFO - Start: search specific staff
+2020-10-12 08:51:19,744 - Staff - INFO - End: search specific staff
+2020-10-12 08:51:19,748 - Staff - INFO - Start: click on specific staff name
+2020-10-12 08:51:25,483 - Staff - INFO - End: click on specific staff name
+2020-10-12 08:51:27,654 - Staff - INFO - Start: is staff added successfully
+2020-10-12 08:51:28,718 - Staff - ERROR - Message: element click intercepted: Element <button class="btn btn_green btn_large">...</button> is not clickable at point (692, 907). Other element would receive the click: <div class="loader">...</div>
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-12 08:51:28,719 - Staff - INFO - End: is staff added successfully
+2020-10-12 08:52:46,121 - Staff - INFO - Start: search specific staff
+2020-10-12 08:52:52,104 - Staff - INFO - End: search specific staff
+2020-10-12 08:52:52,109 - Staff - INFO - Start: click on specific staff name
+2020-10-12 08:52:57,696 - Staff - INFO - End: click on specific staff name
+2020-10-12 08:53:05,935 - Staff - INFO - Start: is staff added successfully
+2020-10-12 08:53:09,280 - Staff - INFO - End: is staff added successfully
+2020-10-12 08:55:18,260 - Staff - INFO - Start: search specific staff
+2020-10-12 08:55:23,903 - Staff - INFO - End: search specific staff
+2020-10-12 08:55:23,907 - Staff - INFO - Start: click on specific staff name
+2020-10-12 08:55:29,212 - Staff - INFO - End: click on specific staff name
+2020-10-12 08:55:36,786 - Staff - INFO - Start: is staff added successfully
+2020-10-12 08:55:40,100 - Staff - INFO - End: is staff added successfully
+2020-10-12 09:32:10,749 - Staff - INFO - Start: search specific staff
+2020-10-12 09:32:17,854 - Staff - INFO - End: search specific staff
+2020-10-12 09:32:17,858 - Staff - INFO - Start: click on specific staff name
+2020-10-12 09:32:23,178 - Staff - INFO - End: click on specific staff name
+2020-10-12 09:32:30,526 - Staff - INFO - Start: is staff added successfully
+2020-10-12 09:32:46,937 - Staff - INFO - End: is staff added successfully
+2020-10-12 09:40:11,987 - Staff - INFO - Start: search specific staff
+2020-10-12 09:40:19,360 - Staff - INFO - End: search specific staff
+2020-10-12 09:40:19,364 - Staff - INFO - Start: click on specific staff name
+2020-10-12 09:40:24,610 - Staff - INFO - End: click on specific staff name
+2020-10-12 09:40:32,295 - Staff - INFO - Start: is payslip generated successfully
+2020-10-12 09:41:11,294 - Staff - INFO - End: is payslip generated successfully
+2020-10-12 09:41:51,929 - Staff - INFO - Start: search specific staff
+2020-10-12 09:41:59,101 - Staff - INFO - End: search specific staff
+2020-10-12 09:41:59,105 - Staff - INFO - Start: click on specific staff name
+2020-10-12 09:42:04,425 - Staff - INFO - End: click on specific staff name
+2020-10-12 09:42:11,913 - Staff - INFO - Start: is payslip generated successfully
+2020-10-12 09:42:18,435 - Staff - INFO - End: is payslip generated successfully
+2020-10-12 09:46:55,091 - Staff - INFO - Start: add new staff
+2020-10-12 09:46:55,092 - Staff - ERROR - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-12 09:46:55,093 - Staff - INFO - End: add new staff
+2020-10-12 09:46:55,101 - Staff - INFO - Start: is staff added successfully
+2020-10-12 09:46:55,102 - Staff - ERROR - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-12 09:46:55,103 - Staff - INFO - End: is staff added successfully
+2020-10-12 09:51:37,339 - Staff - INFO - Start: add new staff
+2020-10-12 09:51:57,997 - Staff - ERROR - Execution terminated by signal
+2020-10-12 09:51:57,999 - Staff - INFO - End: add new staff
+2020-10-12 10:01:17,050 - Staff - INFO - Start: add new staff
+2020-10-12 10:01:45,918 - Staff - INFO - End: add new staff
+2020-10-12 10:01:45,922 - Staff - INFO - Start: is staff added successfully
+2020-10-12 10:02:00,372 - Staff - INFO - End: is staff added successfully
+2020-10-12 10:04:55,846 - Staff - INFO - Start: search specific staff
+2020-10-12 10:05:02,509 - Staff - INFO - End: search specific staff
+2020-10-12 10:05:02,513 - Staff - INFO - Start: click on specific staff name
+2020-10-12 10:05:07,894 - Staff - INFO - End: click on specific staff name
+2020-10-12 10:05:15,430 - Staff - INFO - Start: is payslip generated successfully
+2020-10-12 10:05:22,047 - Staff - INFO - End: is payslip generated successfully

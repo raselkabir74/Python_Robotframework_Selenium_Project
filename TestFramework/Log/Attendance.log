@@ -1,0 +1,219 @@
+2020-10-10 08:02:54,340 - Attendance - INFO - Start: perform check in
+2020-10-10 08:02:55,951 - Attendance - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 08:02:55,953 - Attendance - INFO - End: perform check in
+2020-10-10 08:02:56,385 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:03:29,745 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:04:31,343 - Attendance - INFO - Start: perform check in
+2020-10-10 08:05:32,071 - Attendance - ERROR - Message: locator not found before specified time out
+
+2020-10-10 08:05:32,072 - Attendance - INFO - End: perform check in
+2020-10-10 08:05:32,425 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:06:05,859 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:08:01,498 - Attendance - INFO - Start: perform check in
+2020-10-10 08:08:11,719 - Attendance - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 08:08:11,720 - Attendance - INFO - End: perform check in
+2020-10-10 08:08:12,120 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:08:45,451 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:13:41,356 - Attendance - INFO - Start: perform check in
+2020-10-10 08:13:43,266 - Attendance - INFO - End: perform check in
+2020-10-10 08:13:43,272 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:14:05,710 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:15:23,072 - Attendance - INFO - Start: perform check in
+2020-10-10 08:15:53,378 - Attendance - INFO - End: perform check in
+2020-10-10 08:15:53,378 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:16:24,476 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:16:49,974 - Attendance - INFO - Start: perform check in
+2020-10-10 08:17:20,234 - Attendance - INFO - End: perform check in
+2020-10-10 08:17:20,234 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:17:53,822 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:22:34,235 - Attendance - INFO - Start: perform check in
+2020-10-10 08:22:36,016 - Attendance - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 08:22:36,017 - Attendance - INFO - End: perform check in
+2020-10-10 08:22:36,387 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:23:09,906 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:24:57,314 - Attendance - INFO - Start: perform check in
+2020-10-10 08:24:57,928 - Attendance - INFO - End: perform check in
+2020-10-10 08:24:57,933 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:25:31,339 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:26:25,854 - Attendance - INFO - Start: perform check in
+2020-10-10 08:26:36,065 - Attendance - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 08:26:36,067 - Attendance - INFO - End: perform check in
+2020-10-10 08:26:36,493 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:27:13,958 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:27:32,549 - Attendance - INFO - Start: perform check in
+2020-10-10 08:27:52,773 - Attendance - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 08:27:52,773 - Attendance - INFO - End: perform check in
+2020-10-10 08:27:53,138 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:28:34,951 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:32:54,884 - Attendance - INFO - Start: perform check in
+2020-10-10 08:33:15,082 - Attendance - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 08:33:15,082 - Attendance - INFO - End: perform check in
+2020-10-10 08:33:15,434 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:34:34,689 - Attendance - INFO - Start: perform check in
+2020-10-10 08:34:49,895 - Attendance - ERROR - Message: no such alert
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 08:34:49,897 - Attendance - INFO - End: perform check in
+2020-10-10 08:34:50,261 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:35:23,562 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:36:46,175 - Attendance - INFO - Start: perform check in
+2020-10-10 08:37:06,419 - Attendance - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 08:37:06,420 - Attendance - INFO - End: perform check in
+2020-10-10 08:37:06,794 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:37:39,722 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:38:40,373 - Attendance - INFO - Start: perform check in
+2020-10-10 08:39:00,541 - Attendance - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 08:39:00,541 - Attendance - INFO - End: perform check in
+2020-10-10 08:39:00,880 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:39:39,287 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:40:12,378 - Attendance - INFO - Start: perform check in
+2020-10-10 08:40:22,597 - Attendance - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 08:40:22,597 - Attendance - INFO - End: perform check in
+2020-10-10 08:40:22,938 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:41:04,136 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:50:02,767 - Attendance - INFO - Start: perform check in
+2020-10-10 08:50:05,210 - Attendance - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 08:50:05,211 - Attendance - INFO - End: perform check in
+2020-10-10 08:50:05,611 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:50:34,226 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:50:53,517 - Attendance - INFO - Start: perform check in
+2020-10-10 08:51:03,849 - Attendance - INFO - End: perform check in
+2020-10-10 08:51:03,849 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:51:48,466 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:52:16,545 - Attendance - INFO - Start: perform check in
+2020-10-10 08:52:36,893 - Attendance - INFO - End: perform check in
+2020-10-10 08:52:36,893 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:53:22,292 - Attendance - INFO - End: is checked in successful
+2020-10-10 08:55:31,741 - Attendance - INFO - Start: perform check in
+2020-10-10 08:55:42,184 - Attendance - INFO - End: perform check in
+2020-10-10 08:55:42,193 - Attendance - INFO - Start: is checked in successful
+2020-10-10 08:55:46,432 - Attendance - INFO - End: is checked in successful
+2020-10-10 10:10:21,168 - Attendance - INFO - Start: perform check in
+2020-10-10 10:10:37,516 - Attendance - INFO - End: perform check in
+2020-10-10 10:10:37,520 - Attendance - INFO - Start: is checked in successful
+2020-10-10 10:10:47,539 - Attendance - INFO - End: is checked in successful
+2020-10-10 10:13:37,708 - Attendance - INFO - Start: perform check in
+2020-10-10 10:13:38,763 - Attendance - ERROR - Message: element click intercepted: Element <button class="btn btn_perform-activity btn_blue btn_large g-float-right disabled" id="web-checkin" disabled="disabled" activitymodule="attendance" data-trigger="" data-trigger-event="web-check-in">...</button> is not clickable at point (1758, 106). Other element would receive the click: <div class="search-area ">...</div>
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 10:13:38,763 - Attendance - INFO - End: perform check in
+2020-10-10 10:13:39,092 - Attendance - INFO - Start: is checked in successful
+2020-10-10 10:13:39,123 - Attendance - INFO - End: is checked in successful
+2020-10-10 10:22:28,372 - Attendance - INFO - Start: perform check in
+2020-10-10 10:22:58,410 - Attendance - INFO - End: perform check in
+2020-10-10 10:22:58,414 - Attendance - INFO - Start: is checked in successful
+2020-10-10 10:22:58,415 - Attendance - INFO - End: is checked in successful
+2020-10-10 10:32:12,836 - Attendance - INFO - Start: perform check in
+2020-10-10 10:32:42,899 - Attendance - INFO - End: perform check in
+2020-10-10 10:32:42,901 - Attendance - INFO - Start: return flag value 
+2020-10-10 10:32:42,901 - Attendance - INFO - End: return flag value 
+2020-10-10 10:32:42,906 - Attendance - INFO - Start: is checked in successful
+2020-10-10 10:32:42,906 - Attendance - INFO - End: is checked in successful
+2020-10-10 10:38:40,537 - Attendance - INFO - Start: perform check in
+2020-10-10 10:38:45,848 - Attendance - INFO - End: perform check in
+2020-10-10 10:38:45,848 - Attendance - INFO - Start: return flag value 
+2020-10-10 10:38:45,848 - Attendance - INFO - End: return flag value 
+2020-10-10 10:38:45,848 - Attendance - INFO - Start: is checked in successful
+2020-10-10 10:38:45,848 - Attendance - INFO - End: is checked in successful
+2020-10-10 10:53:45,689 - Attendance - INFO - Start: perform check in
+2020-10-10 10:53:50,925 - Attendance - INFO - End: perform check in
+2020-10-10 10:53:50,927 - Attendance - INFO - Start: is checked in successful
+2020-10-10 10:53:50,927 - Attendance - INFO - End: is checked in successful
+2020-10-10 10:53:50,927 - Attendance - INFO - Start: return flag value 
+2020-10-10 10:53:50,927 - Attendance - INFO - End: return flag value 
+2020-10-10 10:53:50,935 - Attendance - INFO - Start: is checked in successful
+2020-10-10 10:53:50,935 - Attendance - INFO - End: is checked in successful
+2020-10-10 11:00:49,434 - Attendance - INFO - Start: perform check in
+2020-10-10 11:00:54,661 - Attendance - INFO - End: perform check in
+2020-10-10 11:00:54,663 - Attendance - INFO - Start: is checked in successful
+2020-10-10 11:00:54,663 - Attendance - INFO - End: is checked in successful
+2020-10-10 11:00:54,663 - Attendance - INFO - Start: is checked in successful
+2020-10-10 11:00:54,663 - Attendance - INFO - End: is checked in successful
+2020-10-10 11:04:52,658 - Attendance - INFO - Start: perform check in
+2020-10-10 11:04:57,969 - Attendance - INFO - End: perform check in
+2020-10-10 11:04:57,969 - Attendance - INFO - Start: is checked in successful
+2020-10-10 11:04:57,969 - Attendance - INFO - End: is checked in successful
+2020-10-10 11:04:57,969 - Attendance - INFO - Start: is checked in successful
+2020-10-10 11:04:57,969 - Attendance - INFO - End: is checked in successful
+2020-10-10 11:04:57,969 - Attendance - INFO - Start: return flag value 
+2020-10-10 11:04:57,969 - Attendance - INFO - End: return flag value 
+2020-10-10 11:36:59,697 - Attendance - INFO - Start: perform check in
+2020-10-10 11:37:04,971 - Attendance - INFO - End: perform check in
+2020-10-10 11:37:04,973 - Attendance - INFO - Start: is checked in successful
+2020-10-10 11:37:04,973 - Attendance - INFO - End: is checked in successful
+2020-10-11 10:07:12,182 - Attendance - INFO - Start: perform check in
+2020-10-11 10:07:17,429 - Attendance - INFO - End: perform check in
+2020-10-11 10:07:17,431 - Attendance - INFO - Start: is checked in successful
+2020-10-11 10:07:17,431 - Attendance - INFO - End: is checked in successful
+2020-10-11 10:14:27,353 - Attendance - INFO - Start: perform check in
+2020-10-11 10:14:32,622 - Attendance - INFO - End: perform check in
+2020-10-11 10:14:32,626 - Attendance - INFO - Start: is checked in successful
+2020-10-11 10:14:32,626 - Attendance - INFO - End: is checked in successful
+2020-10-11 18:01:18,005 - Attendance - INFO - Start: perform check in
+2020-10-11 18:01:30,739 - Attendance - INFO - End: perform check in
+2020-10-11 18:01:30,739 - Attendance - INFO - Start: is checked in successful
+2020-10-11 18:01:30,739 - Attendance - INFO - End: is checked in successful
+2020-10-11 18:04:57,219 - Attendance - INFO - Start: perform check in
+2020-10-11 18:05:02,329 - Attendance - INFO - End: perform check in
+2020-10-11 18:05:02,329 - Attendance - INFO - Start: is checked in successful
+2020-10-11 18:05:02,329 - Attendance - INFO - End: is checked in successful
+2020-10-11 18:11:15,910 - Attendance - INFO - Start: perform check in
+2020-10-11 18:11:21,217 - Attendance - INFO - End: perform check in
+2020-10-11 18:11:21,217 - Attendance - INFO - Start: is checked in successful
+2020-10-11 18:11:21,217 - Attendance - INFO - End: is checked in successful
+2020-10-11 18:31:07,986 - Attendance - INFO - Start: perform check in
+2020-10-11 18:31:20,189 - Attendance - INFO - End: perform check in
+2020-10-11 18:31:20,189 - Attendance - INFO - Start: is checked in successful
+2020-10-11 18:31:20,189 - Attendance - INFO - End: is checked in successful
+2020-10-11 18:46:00,749 - Attendance - INFO - Start: perform check in
+2020-10-11 18:46:05,994 - Attendance - INFO - End: perform check in
+2020-10-11 18:46:05,996 - Attendance - INFO - Start: is checked in successful
+2020-10-11 18:46:05,996 - Attendance - INFO - End: is checked in successful
+2020-10-11 18:47:13,070 - Attendance - INFO - Start: perform check in
+2020-10-11 18:47:18,326 - Attendance - INFO - End: perform check in
+2020-10-11 18:47:18,328 - Attendance - INFO - Start: is checked in successful
+2020-10-11 18:47:18,328 - Attendance - INFO - End: is checked in successful
+2020-10-11 18:56:01,470 - Attendance - INFO - Start: perform check in
+2020-10-11 18:56:06,738 - Attendance - INFO - End: perform check in
+2020-10-11 18:56:06,742 - Attendance - INFO - Start: is checked in successful
+2020-10-11 18:56:06,742 - Attendance - INFO - End: is checked in successful
+2020-10-12 09:43:23,438 - Attendance - INFO - Start: perform check in
+2020-10-12 09:43:28,746 - Attendance - INFO - End: perform check in
+2020-10-12 09:43:28,750 - Attendance - INFO - Start: is checked in successful
+2020-10-12 09:43:28,750 - Attendance - INFO - End: is checked in successful
+2020-10-12 09:47:49,010 - Attendance - INFO - Start: perform check in
+2020-10-12 09:47:54,292 - Attendance - INFO - End: perform check in
+2020-10-12 09:47:54,296 - Attendance - INFO - Start: is checked in successful
+2020-10-12 09:47:54,296 - Attendance - INFO - End: is checked in successful
+2020-10-12 09:54:43,620 - Attendance - INFO - Start: perform check in
+2020-10-12 09:54:48,913 - Attendance - INFO - End: perform check in
+2020-10-12 09:54:48,917 - Attendance - INFO - Start: is checked in successful
+2020-10-12 09:54:48,917 - Attendance - INFO - End: is checked in successful
+2020-10-12 09:58:10,793 - Attendance - INFO - Start: perform check in
+2020-10-12 09:58:16,067 - Attendance - INFO - End: perform check in
+2020-10-12 09:58:16,073 - Attendance - INFO - Start: is checked in successful
+2020-10-12 09:58:16,073 - Attendance - INFO - End: is checked in successful
+2020-10-12 11:32:45,364 - Attendance - INFO - Start: perform check in
+2020-10-12 11:32:45,364 - Attendance - INFO - End: perform check in
+2020-10-12 11:32:45,380 - Attendance - INFO - Start: is checked in successful
+2020-10-12 11:32:45,380 - Attendance - INFO - End: is checked in successful

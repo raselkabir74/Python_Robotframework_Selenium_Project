@@ -1,0 +1,229 @@
+2020-10-07 01:16:51,917 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:17:52,153 - GoogleSearchPage - ERROR - 
+2020-10-07 01:17:52,153 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:19:24,045 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:19:24,066 - GoogleSearchPage - ERROR - no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='gb']/descendant::a[@title='Google apps']"}
+  (Session info: chrome=85.0.4183.121)
+2020-10-07 01:19:24,066 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:20:00,740 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:20:00,758 - GoogleSearchPage - ERROR - no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='gb']/descendant::a[@title='Google apps']"}
+  (Session info: chrome=85.0.4183.121)
+2020-10-07 01:20:00,758 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:22:17,824 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:23:20,486 - GoogleSearchPage - ERROR - no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='gb']/descendant::a[@title='Google apps']"}
+  (Session info: chrome=85.0.4183.121)
+2020-10-07 01:23:21,740 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:27:36,624 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:27:36,653 - GoogleSearchPage - ERROR - invalid selector: Unable to locate an element with the xpath expression ///div[@id='gbwa']/div/a because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '///div[@id='gbwa']/div/a' is not a valid XPath expression.
+  (Session info: chrome=85.0.4183.121)
+2020-10-07 01:27:36,653 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:28:47,560 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:29:47,936 - GoogleSearchPage - ERROR - 
+2020-10-07 01:29:47,937 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:30:34,173 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:30:34,260 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:31:10,179 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:31:10,312 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:32:44,340 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:33:44,361 - GoogleSearchPage - ERROR - 
+2020-10-07 01:33:44,362 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:34:03,682 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:35:04,023 - GoogleSearchPage - ERROR - 
+2020-10-07 01:35:04,023 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:36:07,927 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:37:08,217 - GoogleSearchPage - ERROR - 
+2020-10-07 01:37:08,217 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:37:34,831 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:38:34,927 - GoogleSearchPage - ERROR - 
+2020-10-07 01:38:34,927 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:38:51,813 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:38:51,898 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:43:00,498 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:43:00,598 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:43:00,599 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 01:44:00,885 - GoogleSearchPage - ERROR - 
+2020-10-07 01:44:00,886 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 01:52:55,291 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:52:55,410 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:52:55,410 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 01:52:55,482 - GoogleSearchPage - ERROR - invalid argument: invalid 'id'
+  (Session info: chrome=85.0.4183.121)
+2020-10-07 01:52:55,482 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 01:54:57,161 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 01:54:57,260 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 01:54:57,260 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 01:54:58,343 - GoogleSearchPage - ERROR - invalid argument: invalid 'id'
+  (Session info: chrome=85.0.4183.121)
+2020-10-07 01:54:58,343 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 02:00:18,710 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 02:00:18,829 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 02:00:18,829 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 02:00:26,544 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 02:03:46,242 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 02:03:46,329 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 02:03:46,330 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 02:03:52,747 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 02:23:08,160 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 02:23:09,035 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 02:23:09,035 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 02:23:15,842 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 02:24:02,674 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 02:25:03,840 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 02:25:03,840 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 02:25:10,249 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 02:27:05,132 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 02:27:15,603 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 02:27:15,604 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 02:27:21,264 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 02:28:10,662 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 02:28:15,925 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 02:28:15,925 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 02:28:21,348 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 11:10:52,350 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 11:10:57,709 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 11:10:57,710 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 11:11:03,323 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 11:16:56,013 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 11:17:01,314 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 11:17:01,314 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 11:17:06,829 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 11:21:18,115 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 11:21:23,422 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 11:21:23,422 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 11:21:29,079 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 14:41:00,773 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 14:41:06,144 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 14:41:06,145 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 14:41:12,515 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 14:46:40,152 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 14:46:45,445 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 14:46:45,445 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 14:46:51,682 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 14:48:13,218 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 14:48:18,566 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 14:48:18,566 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 14:48:23,681 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 14:50:12,071 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 14:50:17,369 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 14:50:17,369 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 14:51:20,526 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 14:51:25,890 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 14:51:25,890 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 14:51:31,804 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 14:52:54,552 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 14:52:59,857 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 14:52:59,858 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 14:53:05,878 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 14:54:36,038 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 14:54:41,314 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 14:54:41,314 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 14:54:46,966 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 14:58:26,170 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 14:58:32,667 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 14:58:32,667 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 14:58:37,435 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 15:04:11,389 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 15:04:16,845 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 15:04:16,846 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 15:04:22,060 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 15:09:09,774 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 15:09:15,728 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 15:09:15,729 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 15:09:21,385 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 15:11:37,723 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 15:11:43,094 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 15:11:43,095 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 15:11:48,518 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 15:16:17,221 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 15:16:22,522 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 15:16:22,523 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 15:16:27,551 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 15:19:31,393 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 15:19:36,702 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 15:19:36,703 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 15:19:41,373 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 15:30:11,639 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 15:30:17,390 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 15:30:17,390 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 15:30:32,423 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 15:32:46,127 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 15:32:51,518 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 15:32:51,518 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 15:32:56,569 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 15:39:14,836 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 15:39:20,684 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 15:39:20,684 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 15:39:27,683 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 15:54:24,031 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 15:54:29,675 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 15:54:29,675 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 15:54:34,453 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 15:55:28,836 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 15:55:34,086 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 15:55:34,086 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 15:55:39,878 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 15:58:15,230 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 15:58:20,667 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 15:58:20,668 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 15:58:26,772 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 16:00:14,044 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 16:00:19,368 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 16:00:19,369 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 16:00:23,752 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 16:02:26,248 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 16:02:31,541 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 16:02:31,541 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 16:02:36,937 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 16:06:54,271 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 16:06:59,983 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 16:06:59,983 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 16:07:07,578 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 16:10:31,393 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 16:10:37,020 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 16:10:37,021 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 16:10:42,561 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 16:14:21,390 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 16:14:27,260 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 16:14:27,260 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 16:14:32,878 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 16:17:19,548 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 16:17:26,938 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 16:17:26,939 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 16:17:34,208 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 16:45:53,867 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 16:45:59,621 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 16:45:59,622 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 16:46:06,834 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 16:52:00,041 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 16:52:05,398 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 16:52:05,399 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 16:52:10,358 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 19:26:21,766 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 19:26:27,495 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 19:26:27,502 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 19:26:33,660 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 20:03:32,692 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 20:03:37,965 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 20:03:37,971 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 20:03:40,790 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-07 20:04:57,420 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-07 20:05:02,709 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-07 20:05:02,721 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-07 20:05:05,137 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-08 08:57:54,724 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-08 08:58:00,012 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-08 08:58:00,019 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-08 08:58:04,351 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-08 09:03:33,084 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-08 09:03:38,297 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-08 09:03:38,302 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-08 09:03:42,142 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-08 09:08:41,798 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-08 09:08:47,025 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-08 09:08:47,032 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-08 09:08:50,961 - GoogleSearchPage - INFO - End: click on map from app list
+2020-10-08 09:10:54,633 - GoogleSearchPage - INFO - Start: click on google app icon
+2020-10-08 09:10:59,896 - GoogleSearchPage - INFO - End: click on google app icon
+2020-10-08 09:10:59,903 - GoogleSearchPage - INFO - Start: click on map from app list
+2020-10-08 09:11:03,666 - GoogleSearchPage - INFO - End: click on map from app list

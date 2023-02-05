@@ -1,0 +1,60 @@
+2020-10-12 07:51:05,255 - Settings - INFO - Start: select specific radio button
+2020-10-12 07:51:05,287 - Settings - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-12 07:51:05,288 - Settings - INFO - End: select specific radio button
+2020-10-12 07:51:05,622 - Settings - INFO - Start: is specific radio button not selected in settings page
+2020-10-12 07:51:05,648 - Settings - INFO - End: is specific radio button not selected in settings page
+2020-10-12 07:52:48,824 - Settings - INFO - Start: select specific radio button
+2020-10-12 07:52:48,863 - Settings - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-12 07:52:48,864 - Settings - INFO - End: select specific radio button
+2020-10-12 07:52:49,186 - Settings - INFO - Start: is specific radio button not selected in settings page
+2020-10-12 07:52:49,211 - Settings - INFO - End: is specific radio button not selected in settings page
+2020-10-12 07:54:03,330 - Settings - INFO - Start: select specific tab
+2020-10-12 07:54:06,591 - Settings - INFO - End: select specific tab
+2020-10-12 07:54:06,595 - Settings - INFO - Start: select specific tab
+2020-10-12 07:54:09,892 - Settings - INFO - End: select specific tab
+2020-10-12 07:54:09,896 - Settings - INFO - Start: select specific radio button
+2020-10-12 07:54:13,242 - Settings - INFO - End: select specific radio button
+2020-10-12 07:54:13,247 - Settings - INFO - Start: is specific radio button not selected in settings page
+2020-10-12 07:54:13,273 - Settings - INFO - End: is specific radio button not selected in settings page
+2020-10-12 07:55:48,519 - Settings - INFO - Start: select specific tab
+2020-10-12 07:55:51,779 - Settings - INFO - End: select specific tab
+2020-10-12 07:55:51,783 - Settings - INFO - Start: select specific tab
+2020-10-12 07:55:55,074 - Settings - INFO - End: select specific tab
+2020-10-12 07:55:55,079 - Settings - INFO - Start: select specific radio button
+2020-10-12 07:55:58,396 - Settings - INFO - End: select specific radio button
+2020-10-12 07:55:58,400 - Settings - INFO - Start: is specific radio button not selected in settings page
+2020-10-12 07:55:58,418 - Settings - INFO - End: is specific radio button not selected in settings page
+2020-10-12 07:55:58,423 - Settings - INFO - Start: select specific radio button
+2020-10-12 07:56:01,708 - Settings - INFO - End: select specific radio button
+2020-10-12 07:56:01,712 - Settings - INFO - Start: is specific radio button not selected in settings page
+2020-10-12 07:56:01,730 - Settings - INFO - End: is specific radio button not selected in settings page
+2020-10-12 08:51:25,487 - Settings - INFO - Start: select specific tab
+2020-10-12 08:51:27,649 - Settings - INFO - End: select specific tab
+2020-10-12 08:52:57,700 - Settings - INFO - Start: select specific tab
+2020-10-12 08:53:05,930 - Settings - INFO - End: select specific tab
+2020-10-12 08:55:29,216 - Settings - INFO - Start: select specific tab
+2020-10-12 08:55:36,782 - Settings - INFO - End: select specific tab
+2020-10-12 09:32:23,182 - Settings - INFO - Start: select specific tab
+2020-10-12 09:32:30,522 - Settings - INFO - End: select specific tab
+2020-10-12 09:40:24,615 - Settings - INFO - Start: select specific tab
+2020-10-12 09:40:32,291 - Settings - INFO - End: select specific tab
+2020-10-12 09:42:04,429 - Settings - INFO - Start: select specific tab
+2020-10-12 09:42:11,909 - Settings - INFO - End: select specific tab
+2020-10-12 10:04:18,429 - Settings - INFO - Start: select specific tab
+2020-10-12 10:04:21,689 - Settings - INFO - End: select specific tab
+2020-10-12 10:04:21,693 - Settings - INFO - Start: select specific tab
+2020-10-12 10:04:24,973 - Settings - INFO - End: select specific tab
+2020-10-12 10:04:24,977 - Settings - INFO - Start: select specific radio button
+2020-10-12 10:04:28,345 - Settings - INFO - End: select specific radio button
+2020-10-12 10:04:28,349 - Settings - INFO - Start: is specific radio button not selected in settings page
+2020-10-12 10:04:28,376 - Settings - INFO - End: is specific radio button not selected in settings page
+2020-10-12 10:04:28,379 - Settings - INFO - Start: select specific radio button
+2020-10-12 10:04:31,686 - Settings - INFO - End: select specific radio button
+2020-10-12 10:04:31,690 - Settings - INFO - Start: is specific radio button not selected in settings page
+2020-10-12 10:04:31,708 - Settings - INFO - End: is specific radio button not selected in settings page
+2020-10-12 10:05:07,898 - Settings - INFO - Start: select specific tab
+2020-10-12 10:05:15,426 - Settings - INFO - End: select specific tab

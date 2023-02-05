@@ -1,0 +1,172 @@
+2020-10-07 11:11:03,324 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 11:11:04,125 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 11:17:06,829 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 11:17:07,107 - GoogleMapPage - ERROR - no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='UB8 3PH']"}
+  (Session info: chrome=85.0.4183.121)
+2020-10-07 11:17:07,107 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 11:21:29,081 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 11:21:32,790 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 14:41:12,515 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 14:41:14,883 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 14:41:14,883 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 14:41:23,932 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 14:46:51,683 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 14:46:54,605 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 14:46:54,606 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 14:47:04,789 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 14:48:23,682 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 14:48:39,759 - GoogleMapPage - ERROR - 
+2020-10-07 14:48:39,760 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 14:48:39,760 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 14:48:49,857 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 14:51:31,805 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 14:51:47,461 - GoogleMapPage - ERROR - 
+2020-10-07 14:51:47,462 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 14:51:47,464 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 14:51:57,655 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 14:53:05,878 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 14:53:08,473 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 14:53:08,474 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 14:53:18,646 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 14:54:46,967 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 14:54:51,100 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 14:54:51,100 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 14:55:04,076 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 14:58:37,436 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 14:58:50,683 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 14:58:50,683 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 14:59:03,404 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 15:04:22,062 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 15:04:32,905 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 15:04:32,961 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 15:04:45,947 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 15:09:21,386 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 15:09:37,325 - GoogleMapPage - ERROR - 
+2020-10-07 15:09:37,325 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 15:09:37,325 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 15:09:47,533 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 15:11:56,053 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 15:12:17,445 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 15:12:27,856 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 15:12:55,555 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 15:16:27,552 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 15:16:33,470 - GoogleMapPage - ERROR - 
+2020-10-07 15:16:33,471 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 15:16:33,471 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 15:16:43,881 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 15:19:41,374 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 15:20:09,892 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 15:20:09,892 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 15:20:23,815 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 15:30:32,423 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 15:30:38,155 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 15:30:38,155 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 15:30:48,527 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 15:30:48,528 - GoogleMapPage - INFO - Start: Click on direction enter icon
+2020-10-07 15:31:03,689 - GoogleMapPage - ERROR - 
+2020-10-07 15:31:03,689 - GoogleMapPage - INFO - End: Click on direction enter icon
+2020-10-07 15:32:56,569 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 15:33:04,008 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 15:33:04,008 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 15:33:16,284 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 15:33:16,284 - GoogleMapPage - INFO - Start: Click on direction enter icon
+2020-10-07 15:33:31,677 - GoogleMapPage - ERROR - 
+2020-10-07 15:33:31,678 - GoogleMapPage - INFO - End: Click on direction enter icon
+2020-10-07 15:39:27,684 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 15:39:31,795 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 15:39:31,796 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 15:39:44,259 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 15:39:44,259 - GoogleMapPage - INFO - Start: Click on direction enter icon
+2020-10-07 15:40:02,503 - GoogleMapPage - INFO - End: Click on direction enter icon
+2020-10-07 15:54:34,453 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 15:54:42,752 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 15:54:42,752 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 15:54:49,549 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 15:54:49,564 - GoogleMapPage - INFO - Start: Click on direction enter icon
+2020-10-07 15:55:01,964 - GoogleMapPage - INFO - End: Click on direction enter icon
+2020-10-07 15:55:01,965 - GoogleMapPage - INFO - Start: Click on destination node
+2020-10-07 15:55:08,058 - GoogleMapPage - INFO - End: Click on destination node
+2020-10-07 15:55:39,879 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 15:55:43,872 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 15:55:43,872 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 15:55:55,490 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 15:55:55,490 - GoogleMapPage - INFO - Start: Click on direction enter icon
+2020-10-07 15:55:56,314 - GoogleMapPage - INFO - End: Click on direction enter icon
+2020-10-07 15:55:56,314 - GoogleMapPage - INFO - Start: Click on destination node
+2020-10-07 15:56:02,573 - GoogleMapPage - INFO - End: Click on destination node
+2020-10-07 15:58:26,773 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 15:58:35,742 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 15:58:35,743 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 15:58:43,835 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 15:58:43,835 - GoogleMapPage - INFO - Start: Click on direction enter icon
+2020-10-07 15:58:57,586 - GoogleMapPage - INFO - End: Click on direction enter icon
+2020-10-07 15:58:57,586 - GoogleMapPage - INFO - Start: Click on destination node
+2020-10-07 15:59:04,668 - GoogleMapPage - INFO - End: Click on destination node
+2020-10-07 16:00:23,754 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 16:00:31,537 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 16:00:31,537 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 16:00:44,765 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 16:00:44,766 - GoogleMapPage - INFO - Start: Click on direction enter icon
+2020-10-07 16:00:45,467 - GoogleMapPage - INFO - End: Click on direction enter icon
+2020-10-07 16:00:45,467 - GoogleMapPage - INFO - Start: Click on destination node
+2020-10-07 16:00:52,545 - GoogleMapPage - INFO - End: Click on destination node
+2020-10-07 16:02:36,938 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 16:02:43,603 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 16:02:43,604 - GoogleMapPage - INFO - Start: Click on destination node
+2020-10-07 16:02:52,780 - GoogleMapPage - INFO - End: Click on destination node
+2020-10-07 16:07:07,578 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 16:07:10,904 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 16:07:10,904 - GoogleMapPage - INFO - Start: Click on destination node
+2020-10-07 16:07:21,233 - GoogleMapPage - INFO - End: Click on destination node
+2020-10-07 16:10:42,561 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 16:10:49,882 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 16:10:49,882 - GoogleMapPage - INFO - Start: Click on destination node
+2020-10-07 16:10:59,882 - GoogleMapPage - INFO - End: Click on destination node
+2020-10-07 16:14:32,880 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 16:14:40,669 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 16:14:40,670 - GoogleMapPage - INFO - Start: Click on destination node
+2020-10-07 16:14:48,698 - GoogleMapPage - INFO - End: Click on destination node
+2020-10-07 16:17:34,208 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 16:17:37,779 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 16:17:37,780 - GoogleMapPage - INFO - Start: Click on destination node
+2020-10-07 16:17:47,540 - GoogleMapPage - INFO - End: Click on destination node
+2020-10-07 16:46:06,836 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 16:46:13,768 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 16:46:35,822 - GoogleMapPage - INFO - Start: get distance and time travel value
+2020-10-07 16:46:52,779 - GoogleMapPage - INFO - End: get distance and time travel value
+2020-10-07 16:52:10,359 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 16:52:18,566 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 16:52:41,324 - GoogleMapPage - INFO - Start: get distance and time travel value
+2020-10-07 16:52:41,664 - GoogleMapPage - INFO - End: get distance and time travel value
+2020-10-07 19:26:33,665 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 19:26:36,284 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 19:26:36,287 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 19:26:47,243 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 19:26:47,247 - GoogleMapPage - INFO - Start: Click on direction enter icon
+2020-10-07 19:26:47,939 - GoogleMapPage - INFO - End: Click on direction enter icon
+2020-10-07 19:26:47,949 - GoogleMapPage - INFO - Start: Click on destination node
+2020-10-07 19:26:49,629 - GoogleMapPage - INFO - End: Click on destination node
+2020-10-07 20:03:40,796 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 20:03:43,528 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 20:03:43,532 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 20:03:50,326 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-07 20:05:05,140 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-07 20:05:07,671 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-07 20:05:07,675 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-07 20:05:14,460 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-08 08:58:04,354 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-08 08:58:06,572 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-08 08:58:06,575 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-08 08:58:12,981 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-08 09:03:42,145 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-08 09:03:44,494 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-08 09:03:44,497 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-08 09:03:51,036 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-08 09:08:50,970 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-08 09:08:53,156 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-08 09:08:53,161 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-08 09:09:02,600 - GoogleMapPage - INFO - End: Click anywhere in sloop road
+2020-10-08 09:11:03,669 - GoogleMapPage - INFO - Start: Search postcode and click on the postcode from the result list
+2020-10-08 09:11:05,992 - GoogleMapPage - INFO - End: Search postcode and click on the postcode from the result list
+2020-10-08 09:11:05,997 - GoogleMapPage - INFO - Start: Click anywhere in sloop road
+2020-10-08 09:11:15,804 - GoogleMapPage - INFO - End: Click anywhere in sloop road

@@ -1,0 +1,63 @@
+2020-10-11 07:51:44,691 - Roster - INFO - Start: add new roster
+2020-10-11 07:51:57,823 - Roster - ERROR - Message: element click intercepted: Element <div data-id="11204" class="view-user user__content user__content_header g-relative">...</div> is not clickable at point (1799, 37). Other element would receive the click: <div id="select2-drop-mask" class="select2-drop-mask" style=""></div>
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-11 07:51:57,825 - Roster - INFO - End: add new roster
+2020-10-11 07:51:58,189 - Roster - INFO - Start: is roster added successfully
+2020-10-11 07:52:34,584 - Roster - INFO - End: is roster added successfully
+2020-10-11 07:57:56,199 - Roster - INFO - Start: add new roster
+2020-10-11 07:58:03,922 - Roster - ERROR - Message: element click intercepted: Element <input type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input select2-focused" id="s2id_autogen181" placeholder="" style="width: 235px;" aria-activedescendant="select2-result-label-184"> is not clickable at point (805, 327). Other element would receive the click: <div id="select2-drop-mask" class="select2-drop-mask" style=""></div>
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-11 07:58:03,925 - Roster - INFO - End: add new roster
+2020-10-11 07:58:04,266 - Roster - INFO - Start: is roster added successfully
+2020-10-11 07:58:39,967 - Roster - INFO - End: is roster added successfully
+2020-10-11 08:03:21,708 - Roster - INFO - Start: add new roster
+2020-10-11 08:03:30,215 - Roster - ERROR - Message: element click intercepted: Element <input type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input select2-focused" id="s2id_autogen181" placeholder="" style="width: 235px;" aria-activedescendant="select2-result-label-184"> is not clickable at point (805, 327). Other element would receive the click: <div id="select2-drop-mask" class="select2-drop-mask" style=""></div>
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-11 08:03:30,217 - Roster - INFO - End: add new roster
+2020-10-11 08:03:30,590 - Roster - INFO - Start: is roster added successfully
+2020-10-11 08:03:49,991 - Roster - INFO - End: is roster added successfully
+2020-10-11 08:04:20,955 - Roster - INFO - Start: add new roster
+2020-10-11 08:04:33,539 - Roster - ERROR - object of type 'NoneType' has no len()
+2020-10-11 08:04:33,541 - Roster - INFO - End: add new roster
+2020-10-11 08:04:33,910 - Roster - INFO - Start: is roster added successfully
+2020-10-11 08:05:13,933 - Roster - INFO - End: is roster added successfully
+2020-10-11 08:07:14,794 - Roster - INFO - Start: add new roster
+2020-10-11 08:07:42,159 - Roster - INFO - End: add new roster
+2020-10-11 08:07:42,163 - Roster - INFO - Start: is roster added successfully
+2020-10-11 08:07:42,208 - Roster - INFO - End: is roster added successfully
+2020-10-11 10:09:02,719 - Roster - INFO - Start: add new roster
+2020-10-11 10:09:21,029 - Roster - INFO - End: add new roster
+2020-10-11 10:09:21,033 - Roster - INFO - Start: is roster added successfully
+2020-10-11 10:10:21,522 - Roster - INFO - End: is roster added successfully
+2020-10-11 10:16:18,522 - Roster - INFO - Start: add new roster
+2020-10-11 10:16:46,290 - Roster - INFO - End: add new roster
+2020-10-11 10:16:46,294 - Roster - INFO - Start: is roster added successfully
+2020-10-11 10:16:46,334 - Roster - INFO - End: is roster added successfully
+2020-10-11 18:49:01,548 - Roster - INFO - Start: add new roster
+2020-10-11 18:49:19,956 - Roster - INFO - End: add new roster
+2020-10-11 18:49:19,960 - Roster - INFO - Start: is roster added successfully
+2020-10-11 18:50:20,382 - Roster - INFO - End: is roster added successfully
+2020-10-11 18:57:55,721 - Roster - INFO - Start: add new roster
+2020-10-11 18:58:23,309 - Roster - INFO - End: add new roster
+2020-10-11 18:58:23,313 - Roster - INFO - Start: is roster added successfully
+2020-10-11 18:58:23,352 - Roster - INFO - End: is roster added successfully
+2020-10-12 09:45:20,759 - Roster - INFO - Start: add new roster
+2020-10-12 09:45:41,481 - Roster - INFO - End: add new roster
+2020-10-12 09:45:41,485 - Roster - INFO - Start: is roster added successfully
+2020-10-12 09:46:41,981 - Roster - INFO - End: is roster added successfully
+2020-10-12 09:49:49,155 - Roster - INFO - Start: add new roster
+2020-10-12 09:50:13,014 - Roster - INFO - End: add new roster
+2020-10-12 09:50:13,018 - Roster - INFO - Start: is roster added successfully
+2020-10-12 09:51:13,187 - Roster - INFO - End: is roster added successfully
+2020-10-12 09:56:44,120 - Roster - INFO - Start: add new roster
+2020-10-12 09:56:57,038 - Roster - ERROR - object of type 'NoneType' has no len()
+2020-10-12 09:56:57,040 - Roster - INFO - End: add new roster
+2020-10-12 09:56:57,455 - Roster - INFO - Start: is roster added successfully
+2020-10-12 09:57:20,152 - Roster - INFO - End: is roster added successfully
+2020-10-12 10:00:20,164 - Roster - INFO - Start: add new roster
+2020-10-12 10:00:50,724 - Roster - INFO - End: add new roster
+2020-10-12 10:00:50,729 - Roster - INFO - Start: is roster added successfully
+2020-10-12 10:00:50,884 - Roster - INFO - End: is roster added successfully

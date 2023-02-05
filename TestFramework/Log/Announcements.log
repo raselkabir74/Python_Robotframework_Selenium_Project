@@ -1,0 +1,121 @@
+2020-10-10 09:28:35,847 - Announcements - INFO - Start: add new announcement
+2020-10-10 09:28:42,427 - Announcements - ERROR - ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2020-10-10 09:28:42,427 - Announcements - INFO - End: add new announcement
+2020-10-10 09:30:04,571 - Announcements - INFO - Start: add new announcement
+2020-10-10 09:30:06,947 - Announcements - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 09:30:06,949 - Announcements - INFO - End: add new announcement
+2020-10-10 09:30:43,794 - Announcements - INFO - Start: add new announcement
+2020-10-10 09:30:49,208 - Announcements - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 09:30:49,208 - Announcements - INFO - End: add new announcement
+2020-10-10 09:35:03,524 - Announcements - INFO - Start: add new announcement
+2020-10-10 09:35:17,218 - Announcements - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 09:35:17,219 - Announcements - INFO - End: add new announcement
+2020-10-10 09:36:09,396 - Announcements - INFO - Start: add new announcement
+2020-10-10 09:36:34,624 - Announcements - INFO - End: add new announcement
+2020-10-10 09:42:04,454 - Announcements - INFO - Start: add new announcement
+2020-10-10 09:42:32,451 - Announcements - INFO - End: add new announcement
+2020-10-10 09:51:02,879 - Announcements - INFO - Start: add new announcement
+2020-10-10 09:51:30,583 - Announcements - INFO - End: add new announcement
+2020-10-10 09:52:23,545 - Announcements - INFO - Start: add new announcement
+2020-10-10 09:52:51,270 - Announcements - INFO - End: add new announcement
+2020-10-10 09:52:51,270 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-10 09:52:54,651 - Announcements - INFO - End: is new announcement created successfully
+2020-10-10 09:53:18,907 - Announcements - INFO - Start: add new announcement
+2020-10-10 09:53:18,907 - Announcements - ERROR - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 09:53:18,907 - Announcements - INFO - End: add new announcement
+2020-10-10 09:53:18,939 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-10 09:53:18,939 - Announcements - ERROR - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-10 09:53:18,939 - Announcements - INFO - End: is new announcement created successfully
+2020-10-10 09:54:31,176 - Announcements - INFO - Start: add new announcement
+2020-10-10 09:54:58,859 - Announcements - INFO - End: add new announcement
+2020-10-10 09:54:58,859 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-10 09:55:02,173 - Announcements - INFO - End: is new announcement created successfully
+2020-10-10 09:59:41,591 - Announcements - INFO - Start: add new announcement
+2020-10-10 10:00:10,908 - Announcements - INFO - End: add new announcement
+2020-10-10 10:00:10,908 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-10 10:00:29,528 - Announcements - INFO - End: is new announcement created successfully
+2020-10-10 10:08:25,245 - Announcements - INFO - Start: add new announcement
+2020-10-10 10:08:53,336 - Announcements - INFO - End: add new announcement
+2020-10-10 10:08:53,336 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-10 10:09:01,055 - Announcements - INFO - End: is new announcement created successfully
+2020-10-10 10:14:08,405 - Announcements - INFO - Start: add new announcement
+2020-10-10 10:14:35,730 - Announcements - INFO - End: add new announcement
+2020-10-10 10:14:35,730 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-10 10:14:43,412 - Announcements - INFO - End: is new announcement created successfully
+2020-10-10 10:33:13,611 - Announcements - INFO - Start: add new announcement
+2020-10-10 10:33:41,545 - Announcements - INFO - End: add new announcement
+2020-10-10 10:33:41,549 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-10 10:33:49,183 - Announcements - INFO - End: is new announcement created successfully
+2020-10-10 10:39:15,627 - Announcements - INFO - Start: add new announcement
+2020-10-10 10:39:43,704 - Announcements - INFO - End: add new announcement
+2020-10-10 10:39:43,704 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-10 10:39:51,558 - Announcements - INFO - End: is new announcement created successfully
+2020-10-10 10:54:22,708 - Announcements - INFO - Start: add new announcement
+2020-10-10 10:54:49,991 - Announcements - INFO - End: add new announcement
+2020-10-10 10:54:49,993 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-10 10:54:52,209 - Announcements - ERROR - Execution terminated by signal
+2020-10-10 10:54:52,214 - Announcements - INFO - End: is new announcement created successfully
+2020-10-10 11:01:24,293 - Announcements - INFO - Start: add new announcement
+2020-10-10 11:01:51,966 - Announcements - INFO - End: add new announcement
+2020-10-10 11:01:51,968 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-10 11:01:59,819 - Announcements - INFO - End: is new announcement created successfully
+2020-10-10 11:05:26,775 - Announcements - INFO - Start: add new announcement
+2020-10-10 11:05:54,042 - Announcements - INFO - End: add new announcement
+2020-10-10 11:05:54,042 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-10 11:06:01,650 - Announcements - INFO - End: is new announcement created successfully
+2020-10-10 11:37:35,193 - Announcements - INFO - Start: add new announcement
+2020-10-10 11:38:03,640 - Announcements - INFO - End: add new announcement
+2020-10-10 11:38:03,643 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-10 11:38:12,496 - Announcements - INFO - End: is new announcement created successfully
+2020-10-11 10:07:39,767 - Announcements - INFO - Start: add new announcement
+2020-10-11 10:07:54,902 - Announcements - INFO - End: add new announcement
+2020-10-11 10:07:54,904 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-11 10:07:59,447 - Announcements - INFO - End: is new announcement created successfully
+2020-10-11 10:14:55,223 - Announcements - INFO - Start: add new announcement
+2020-10-11 10:15:10,698 - Announcements - INFO - End: add new announcement
+2020-10-11 10:15:10,700 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-11 10:15:15,275 - Announcements - INFO - End: is new announcement created successfully
+2020-10-11 18:06:20,012 - Announcements - INFO - Start: add new announcement
+2020-10-11 18:07:20,361 - Announcements - ERROR - Message: locator not found before specified time out
+
+2020-10-11 18:07:20,365 - Announcements - INFO - End: add new announcement
+2020-10-11 18:07:20,730 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-11 18:08:26,264 - Announcements - ERROR - Message: locator not found before specified time out
+
+2020-10-11 18:08:26,264 - Announcements - INFO - End: is new announcement created successfully
+2020-10-11 18:47:39,817 - Announcements - INFO - Start: add new announcement
+2020-10-11 18:47:55,024 - Announcements - INFO - End: add new announcement
+2020-10-11 18:47:55,026 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-11 18:47:59,747 - Announcements - INFO - End: is new announcement created successfully
+2020-10-11 18:56:30,370 - Announcements - INFO - Start: add new announcement
+2020-10-11 18:56:45,116 - Announcements - INFO - End: add new announcement
+2020-10-11 18:56:45,120 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-11 18:56:49,682 - Announcements - INFO - End: is new announcement created successfully
+2020-10-12 09:43:51,972 - Announcements - INFO - Start: add new announcement
+2020-10-12 09:44:07,646 - Announcements - INFO - End: add new announcement
+2020-10-12 09:44:07,650 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-12 09:44:13,242 - Announcements - INFO - End: is new announcement created successfully
+2020-10-12 09:48:19,586 - Announcements - INFO - Start: add new announcement
+2020-10-12 09:48:35,706 - Announcements - INFO - End: add new announcement
+2020-10-12 09:48:35,711 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-12 09:48:41,802 - Announcements - INFO - End: is new announcement created successfully
+2020-10-12 09:55:13,558 - Announcements - INFO - Start: add new announcement
+2020-10-12 09:55:29,502 - Announcements - INFO - End: add new announcement
+2020-10-12 09:55:29,506 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-12 09:55:35,421 - Announcements - INFO - End: is new announcement created successfully
+2020-10-12 09:58:40,761 - Announcements - INFO - Start: add new announcement
+2020-10-12 09:58:58,571 - Announcements - INFO - End: add new announcement
+2020-10-12 09:58:58,575 - Announcements - INFO - Start: is new announcement created successfully
+2020-10-12 09:59:04,256 - Announcements - INFO - End: is new announcement created successfully

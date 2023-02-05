@@ -1,0 +1,86 @@
+2020-10-11 06:55:49,938 - Leave - INFO - Start: apply leave
+2020-10-11 06:55:54,592 - Leave - ERROR - Message: element click intercepted: Element <div class="meta-column">...</div> is not clickable at point (1145, 393). Other element would receive the click: <div class="select2-result-label" id="select2-result-label-187" role="option">...</div>
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-11 06:55:54,594 - Leave - INFO - End: apply leave
+2020-10-11 06:55:54,935 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 06:55:54,935 - Leave - INFO - End: is leave applied successfully
+2020-10-11 06:59:12,613 - Leave - INFO - Start: apply leave
+2020-10-11 06:59:26,576 - Leave - ERROR - Message: element click intercepted: Element <div class="meta-column">...</div> is not clickable at point (1145, 393). Other element would receive the click: <div class="select2-result-label" id="select2-result-label-187" role="option">...</div>
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-11 06:59:26,578 - Leave - INFO - End: apply leave
+2020-10-11 06:59:26,910 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 06:59:26,910 - Leave - INFO - End: is leave applied successfully
+2020-10-11 07:01:37,508 - Leave - INFO - Start: apply leave
+2020-10-11 07:01:45,081 - Leave - ERROR - Message: element click intercepted: Element <div class="select2-container custom-simple-drop required select2-dropdown-open select2-container-active" id="s2id_duration">...</div> is not clickable at point (815, 239). Other element would receive the click: <div id="select2-drop-mask" class="select2-drop-mask" style=""></div>
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-11 07:01:45,083 - Leave - INFO - End: apply leave
+2020-10-11 07:01:45,425 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 07:01:45,425 - Leave - INFO - End: is leave applied successfully
+2020-10-11 07:04:18,365 - Leave - INFO - Start: apply leave
+2020-10-11 07:04:25,941 - Leave - ERROR - Message: element click intercepted: Element <div class="select2-container custom-simple-drop required select2-dropdown-open select2-container-active" id="s2id_duration">...</div> is not clickable at point (815, 239). Other element would receive the click: <div id="select2-drop-mask" class="select2-drop-mask" style=""></div>
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-11 07:04:25,943 - Leave - INFO - End: apply leave
+2020-10-11 07:04:26,303 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 07:04:26,303 - Leave - INFO - End: is leave applied successfully
+2020-10-11 07:09:28,418 - Leave - INFO - Start: apply leave
+2020-10-11 07:09:42,404 - Leave - ERROR - Message: element click intercepted: Element <div class="meta-column">...</div> is not clickable at point (1145, 483). Other element would receive the click: <div id="select2-drop-mask" class="select2-drop-mask" style=""></div>
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-11 07:09:42,406 - Leave - INFO - End: apply leave
+2020-10-11 07:09:42,747 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 07:09:42,747 - Leave - INFO - End: is leave applied successfully
+2020-10-11 07:12:51,639 - Leave - INFO - Start: apply leave
+2020-10-11 07:13:04,917 - Leave - ERROR - Message: element not interactable
+  (Session info: chrome=86.0.4240.75)
+
+2020-10-11 07:13:04,919 - Leave - INFO - End: apply leave
+2020-10-11 07:13:05,284 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 07:13:05,284 - Leave - INFO - End: is leave applied successfully
+2020-10-11 07:18:02,466 - Leave - INFO - Start: apply leave
+2020-10-11 07:18:14,973 - Leave - INFO - End: apply leave
+2020-10-11 07:18:14,977 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 07:19:16,236 - Leave - INFO - End: is leave applied successfully
+2020-10-11 07:19:46,238 - Leave - INFO - Start: apply leave
+2020-10-11 07:19:58,735 - Leave - INFO - End: apply leave
+2020-10-11 07:19:58,739 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 07:20:11,573 - Leave - INFO - End: is leave applied successfully
+2020-10-11 07:21:04,438 - Leave - INFO - Start: apply leave
+2020-10-11 07:21:16,899 - Leave - INFO - End: apply leave
+2020-10-11 07:21:16,903 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 07:21:16,903 - Leave - INFO - End: is leave applied successfully
+2020-10-11 10:08:24,221 - Leave - INFO - Start: apply leave
+2020-10-11 10:08:36,775 - Leave - INFO - End: apply leave
+2020-10-11 10:08:36,779 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 10:08:36,779 - Leave - INFO - End: is leave applied successfully
+2020-10-11 10:15:37,300 - Leave - INFO - Start: apply leave
+2020-10-11 10:15:49,855 - Leave - INFO - End: apply leave
+2020-10-11 10:15:49,859 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 10:15:49,859 - Leave - INFO - End: is leave applied successfully
+2020-10-11 18:48:23,623 - Leave - INFO - Start: apply leave
+2020-10-11 18:48:36,267 - Leave - INFO - End: apply leave
+2020-10-11 18:48:36,271 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 18:48:36,271 - Leave - INFO - End: is leave applied successfully
+2020-10-11 18:57:13,786 - Leave - INFO - Start: apply leave
+2020-10-11 18:57:26,346 - Leave - INFO - End: apply leave
+2020-10-11 18:57:26,349 - Leave - INFO - Start: is leave applied successfully
+2020-10-11 18:57:26,349 - Leave - INFO - End: is leave applied successfully
+2020-10-12 09:44:37,510 - Leave - INFO - Start: apply leave
+2020-10-12 09:44:51,589 - Leave - INFO - End: apply leave
+2020-10-12 09:44:51,593 - Leave - INFO - Start: is leave applied successfully
+2020-10-12 09:44:51,593 - Leave - INFO - End: is leave applied successfully
+2020-10-12 09:49:06,743 - Leave - INFO - Start: apply leave
+2020-10-12 09:49:20,611 - Leave - INFO - End: apply leave
+2020-10-12 09:49:20,615 - Leave - INFO - Start: is leave applied successfully
+2020-10-12 09:49:20,615 - Leave - INFO - End: is leave applied successfully
+2020-10-12 09:56:00,304 - Leave - INFO - Start: apply leave
+2020-10-12 09:56:14,270 - Leave - INFO - End: apply leave
+2020-10-12 09:56:14,274 - Leave - INFO - Start: is leave applied successfully
+2020-10-12 09:56:14,274 - Leave - INFO - End: is leave applied successfully
+2020-10-12 09:59:33,291 - Leave - INFO - Start: apply leave
+2020-10-12 09:59:47,190 - Leave - INFO - End: apply leave
+2020-10-12 09:59:47,194 - Leave - INFO - Start: is leave applied successfully
+2020-10-12 09:59:47,194 - Leave - INFO - End: is leave applied successfully
